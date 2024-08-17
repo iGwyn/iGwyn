@@ -4,7 +4,7 @@
 - I am the artist who created [Meiling](https://discord.com/users/1270756562549342221).
 - Please contact me to receive permission to use Meiling.
 <p align="center">
-  <img width="624" alt="image" src="https://github.com/user-attachments/assets/044c57d7-3cec-452e-b363-0c638f01ac6e">
+  <img width="613" alt="image" src="https://github.com/user-attachments/assets/621816d6-22c3-43ea-b1f5-d4c220ca09c6">
 </p>
 
 - 📫 How to reach me **syhanhcbq@gmail.com**
