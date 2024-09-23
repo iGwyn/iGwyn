@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harmoury</h1>
+<h1 align="center">Hi 👋, I'm Gwyn</h1>
 <h3 align="center">Hanh Vuong Sy</h3>
 
 - I am the artist who created [Meiling](https://discord.com/users/1270756562549342221).
