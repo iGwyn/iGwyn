@@ -2,7 +2,7 @@
 <h3 align="center">Coding... Meh, Not My Thing 🙃</h3>
 
 - ✨ **Selling Game Sources**: 
-  I have some Unity-based server and client game sources available for sale. These include popular multi-platform games like **Ninja School Online**, **Ngoc Rong Online**, and **Avatar**. Why code new stuff when you can sell what already works, right?
+  I have some server and Unity-based client game sources available for sale. These include popular multi-platform games like **Ninja School Online**, **Ngoc Rong Online**, and **Avatar**. Why code new stuff when you can sell what already works, right?
 
 - ☑️ **Why I Code?**: 
   To get it done and move on. Honestly, I’d rather be anywhere else.
