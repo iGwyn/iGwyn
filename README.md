@@ -14,7 +14,7 @@
 
 ### Skills? Sure, Here’s the List (But Don’t Ask Me to Enjoy Them):
 
-![Skills](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,opencv,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis)
+![Skills](https://skillicons.dev/icons?i=nodejs,js,ts,java,python,opencv,cs,docker,postman,git,mongo,express,nest,mysql,graphql,vscode,md,supabase,bots,gcp,postgres,prisma,kafka,nginx,redis,unity)
 
 ---
 
