@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gwyn</h1>
 <h3 align="center">Coding... Meh, Not My Thing 🙃</h3>
 
-- ✨ **Selling Game Sources**:
+- ✨ **Selling Game Sources**:  
   I have some server and Unity-based client game sources available for sale. These include popular multi-platform games like **Ninja School Online**, **Ngoc Rong Online**, and **Avatar**. Why code new stuff when you can sell what already works, right?
 
-- ☑️ **Why I Code?**:
+- ☑️ **Why I Code?**:  
   To get it done and move on. Honestly, I’d rather be anywhere else.
 
-- 📧 **Reach Me**:
+- 🛠️ **Custom Development Services**:  
+  I have a team that can code the product you need. Let us know what you’re looking for!
+
+- 📧 **Reach Me**:  
   If you’re interested in buying game sources or discussing work opportunities, email me at **syhanhcbq@gmail.com**.
 
 ---
